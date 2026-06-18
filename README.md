@@ -1,3 +1,4 @@
+![AWS](https://img.shields.io/badge/Built%20with-AWS%20S3-orange)
 # AWS S3 Storage Lab
 
 ## Objective
